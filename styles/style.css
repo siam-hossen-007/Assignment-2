@@ -136,8 +136,8 @@ body {
 
 .shape {
     font-family: 'Miama Nueva', sans-serif;
-    font-size: 5rem;
-    font-weight: 700;
+    font-size: 3rem;
+    font-weight: 500;
     color:#fffcfc;
     opacity: 73%;
 }
@@ -646,6 +646,9 @@ hr{
         justify-content: center;
         align-items: center;
     }
+    #shape{
+        font-size: 3rem;
+    }
 
     /* Banner */
     .banner-title {
@@ -663,13 +666,13 @@ hr{
 
     /* Banner Badges */
     .card-one {
-        right: -150px;
+        right: -230px;
         top: 150px;
     }
 
     .card-two {
         left: 10px;
-        bottom: 270px;
+        bottom: 200px;
     }
 
     /* Habit Section */
